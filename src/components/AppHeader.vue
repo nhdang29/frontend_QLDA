@@ -1,6 +1,6 @@
 <template>
 	<nav class="navbar navbar-expand navbar-dark bg-primary">
-		<a href="/" class="navbar-brand">Ứng dụng Quản lý môn học</a>
+		<a href="/" class="navbar-brand">Ứng dụng Quản lý dự án</a>
 
 		<div v-if="currentUser" class="mr-auto navbar-nav">
 			<li class="nav-item">
